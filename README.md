@@ -38,8 +38,8 @@ Finally run model
 
 | Model | Train loss | Train accuracy | Val loss | Val accuracy |
 | ----- | ---------- | -------------- | -------- | ------------ |
-| ResNet | 
-| DenseNet |
+| ResNet | 0.1141 | 0.9426 | 0.1927 | 0.9477|
+| DenseNet | 0.8208 | 0.4877 | 0.7878 | 0.5686
 | VGG |
 | AlexNet |
-| SqueezeNet |
+| SqueezeNet | 0.2667 | 0.8770 | 0.3546 | 0.9020 |
