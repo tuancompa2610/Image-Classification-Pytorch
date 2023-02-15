@@ -44,5 +44,10 @@ Finally run model
 | AlexNet | 0.1587 | 0.9426 | 0.2643 | 0.9150 |
 | SqueezeNet | 0.2667 | 0.8770 | 0.3546 | 0.9020 |
 
-## Contribution
+## Contributing
+1. Fork it
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
 
