@@ -4,7 +4,6 @@
 
 ## 📃 Table of Contents:
   - [About Repository](#-about-repository)
-  - [Installation](#-installation)
   - [Useage](#-useage)
   - [Report](#-report)
   - [Contribution](#-contribution)
@@ -44,3 +43,6 @@ Finally run model
 | VGG | 0.1267 | 0.9631 | 0.1858 | 0.9477 |
 | AlexNet | 0.1587 | 0.9426 | 0.2643 | 0.9150 |
 | SqueezeNet | 0.2667 | 0.8770 | 0.3546 | 0.9020 |
+
+## Contribution
+
