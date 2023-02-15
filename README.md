@@ -6,6 +6,7 @@
   - [About Repository](#-about-repository)
   - [Useage](#-useage)
   - [Report](#-report)
+  - [Model using](#-model-using)
   - [Contribution](#-contribution)
   
 ## About Repository
